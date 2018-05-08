@@ -1,3 +1,6 @@
 .idea/
 vendor/
 composer.lock
+/nbproject/private/
+/nbproject/project.xml
+/nbproject/project.properties
